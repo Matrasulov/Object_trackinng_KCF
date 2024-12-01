@@ -1,2 +1,6 @@
 # Object_trackinng_KCF
 Free Style Object Tracking using OpenCV API
+
+
+The link for **Video Journal**:
+https://o365inha-my.sharepoint.com/:v:/g/personal/12204550_office_inha_ac_kr/EQt3dM4bXEBFlAjFTE2Bn90B0AG0VPtZ-s77M_biauj-Yg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jow8Hf
